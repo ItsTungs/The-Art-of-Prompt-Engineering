@@ -4,7 +4,7 @@
 
 **Author:** Cognitive Class AI
 
-Welcome to the fascinating journey of building a chatbot capable of analyzing PDF documents using LLM (Large Language Models). This project, developed as part of the IBM Advance AI @ Infinite Learning Course, brings together cutting-edge technologies and innovative solutions.
+Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
 
 ## About the Author
 - **Name:** Rayhan Favian Al Gaffar
