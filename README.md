@@ -15,9 +15,5 @@ Welcome to the fascinating journey of building a chatbot capable of analyzing PD
 - HTML
 - CSS
 
-#### Project Highlights:
-- Leverage state-of-the-art NLP techniques.
-- Seamless integration of HTML and CSS for a polished user interface.
-- Python powers the backend functionalities.
 
 ##### Project Status: Completed
