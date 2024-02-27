@@ -1,4 +1,4 @@
-# Build a Chatbot to Analyze PDF Document Using LLM
+# The Art of Prompt Engineering
 
 ![Chatbot Illustration](https://img.hotimg.com/IBMSkillsNetwork-GPXX0TGVEN-Certificate-_-Cognitive-Class_page-0001.jpeg)
 
